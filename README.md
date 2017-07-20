@@ -1,5 +1,8 @@
-MQTT addon for Kodi
-===================
+MQTT addon for Kodi (Fork for Testing)
+======================================
+  
+  This version contains experimental extensions. Don't use it. Use the original:
+  https://github.com/owagner/kodi2mqtt
 
   Written and (C) 2015-16 Oliver Wagner <owagner@tellerulam.com> 
   
